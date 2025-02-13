@@ -1,0 +1,1 @@
+setsensor = false

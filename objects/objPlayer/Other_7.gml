@@ -1,0 +1,1 @@
+if (sprite_index == sprPlayerJump) sprite_index = sprPlayer

@@ -1,0 +1,3 @@
+idd = id
+
+openDoor = false

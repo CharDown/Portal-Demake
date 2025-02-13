@@ -1,0 +1,1 @@
+launch(phy_mass*3500,90)

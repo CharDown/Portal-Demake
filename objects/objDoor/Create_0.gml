@@ -1,0 +1,3 @@
+setSensor = false
+
+idd = id
